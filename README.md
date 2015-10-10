@@ -1,5 +1,7 @@
-This program was written in early July 2015 because of a challenge/request from Pam.
+PamVirus
 ====================
+
+This program was written in early July 2015 because of a challenge/request from Pam.
 
 It takes two command-line arguments:
  * a path to a folder
